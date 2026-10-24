@@ -21,6 +21,8 @@ on experimenting with the potential of maintaining a personal fork of public sof
 
 on testing the waters of container-native os:
 - [reverie](https://github.com/pelikanade/reverie) - my quiet workstation setup. built on [universal blue](https://blue-build.org/) to make my system reproducible and easy to move between devices. *superseded by nixos.*
+
+other stuff:
 - [astro-llm-translator](https://github.com/pelikanade/astro-llm-translator) - making llms translate my docs so i don't have to
 
 #### stuff i do
