@@ -2,7 +2,7 @@
 
 i'm noa. full-spectrum developer who thinks systems should stay understandable and observable - declarative, reproducible structure that doesn't quietly drift into chaos.
 
-i treat tooling as part of the thinking process, and tend to keep refining my environments, abstractions, and workflows until the friction mostly disappears and building things feels continuous. that instinct carries over into the systems i make (often with nix). 
+i treat tooling as part of the thinking process, and tend to keep refining my environments, abstractions, and workflows until the friction mostly disappears and building things feels continuous. that instinct carries over into the systems i make. 
 
 i work on nix, kubernetes delivery & ops, zero-trust networking, and mainly declarative systems. nixpkgs package maintainer since 2024. also contributing upstream fixes where the friction shows up.
 
