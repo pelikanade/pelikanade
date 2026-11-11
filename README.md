@@ -10,7 +10,6 @@ i work on nix, kubernetes delivery & ops, zero-trust networking, and mainly decl
 
 - [flake](https://github.com/pelikanade/flake) - my nixos config (which propelled me into the immutable everything field, thank you)
 - [reverie](https://github.com/pelikanade/reverie) - my quiet workstation setup. built on [universal blue](https://blue-build.org/) to make my system reproducible and easy to move between devices. now featuring fedora 45.
-- [freezer](https://github.com/pelikanade/freezer) - self-hosted flake build service: reproducible builds, signed store paths to an s3-compatible cache
 - [mimosa](https://github.com/pelikanade/mimosa) - kubernetes on talos linux & terraform, immutable infrastructure + gitops
 - [paseo-plugins](https://github.com/pelikanade/paseo-plugins) - independently installable [paseo](https://paseo.sh) plugins to reduce friction in development (devenv, generative-ui, host-monitor, obsidian, omp fidelity, …)
 
